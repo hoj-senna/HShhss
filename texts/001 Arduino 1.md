@@ -1,4 +1,4 @@
-I have bought "The Most Complete Starter Kit MEGA 2560 Project" by elegoo (elegoo.com), which contains a MEGA 2560 rev3 Controller Board and quite a bit of
+I have bought "The Most Complete Starter Kit MEGA 2560 Project" by elegoo, which contains a MEGA 2560 rev3 Controller Board and quite a bit of
 other electronic components. (Actually, this was some time ago. But seeing that I have a day of free time, today may be a good day for finally
 unpacking it.)
 
