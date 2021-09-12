@@ -88,3 +88,7 @@ etc.
 (and for `%10`, the same happens (with ones starting at 10)). 
 
 Very well: Note to self: Don't use i32.
+
+
+#
+[Continue](004arduino4.md)
