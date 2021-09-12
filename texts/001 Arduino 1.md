@@ -110,3 +110,7 @@ In the `loop` which then runs repeatedly without end, we wait and switch the sta
 [Very helpful introduction](https://creativcoder.dev/rust-on-arduino-uno/)
 
 [avr-hal repository](https://github.com/Rahix/avr-hal), also with links to the template used
+
+
+#
+[Continue](002arduino2.md)
