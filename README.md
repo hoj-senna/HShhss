@@ -8,6 +8,7 @@
 4. [Arduino IV](texts/004arduino4.md)
 5. [Arduino V](texts/005arduino5.md)
 6. [Arduino VI](texts/006arduino6.md)
+7. [Arduino VII: Happy birthday](texts/007arduino7.md)
 
 
 [Series on Vulkan/ash/gomputer graphics](https://hoj-senna.github.io/ashen-aetna/)
